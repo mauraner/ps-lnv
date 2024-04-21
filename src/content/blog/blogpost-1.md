@@ -8,7 +8,7 @@ tags:
   - Commerce
   - Artisanat
   - Local
-imgUrl: '../../assets/paysage1.jpg'
+imgUrl: '../../assets/standlnv.jpg'
 description: Notre vision et notre engagement pour La Neuveville.
 layout: '../../layouts/BlogPost.astro'
 ---
