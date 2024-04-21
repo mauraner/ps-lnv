@@ -1,70 +1,46 @@
 ---
-title: Notre vision
+title: Notre engagement
 pubDate: 2024/05/03
 author: "PSGC"
 tags:
-  - Socialisme
-  - Région
-  - Ecologie
-  - Féminisme
-  - Service public
+  - Familles
+  - Crèche
+  - Commerce
+  - Artisanat
+  - Local
 imgUrl: '../../assets/paysage1.jpg'
-description: Ce pourquoi nous nous engageons.
+description: Notre vision et notre engagement pour La Neuveville.
 layout: '../../layouts/BlogPost.astro'
 ---
 
-Le Parti socialiste Grand Chasseral, ci-après dénommé *PSGC*, est une des fédérations
-régionales du Parti socialiste du canton de Berne. Son but est de renforcer les idées
-sociales, écologistes, féministes et inclusives dans le Jura bernois. Le PSGC veut
-défendre les intérêts sociaux, culturels, économiques et environnementaux de la région.
-Il s’engage aussi à promouvoir la spécificité francophone du Jura bernois, à défendre son
-statut particulier et à renforcer le bilinguisme dans le canton.
+Tu veux soutenir les familles ?
+Rejoins le Parti Socialiste Neuvevillois !
 
-Le PSGC se bat pour davantage de justice sociale. Il dénonce et combat toutes les
-inégalités, les injustices et les discriminations basées sur l’origine, la classe sociale ou le
-genre. Il encourage l’intégration, l’esprit communautaire, la solidarité, l’entraide et une
-meilleure répartition des richesses. Le parti veille en particulier au maintien de bonnes
-conditions de travail, d’une rémunération correcte, d’un filet social qui permette de vivre
-dignement à tout âge. Il est également attentif au maintien des institutions et
-établissements régionaux, à l’accès à toutes et tous à une éducation scolaire et une
-formation de qualité, aux assurances sociales, à la santé et à des structures de garde
-extra-familiale. Le PSGC s’engage pour une politique familiale plus progressiste afin d’en
-finir avec les inégalités entre femmes et hommes. Il veut favoriser l’intégration des
-minorités et améliorer l’accueil des réfugié·e·s.
+Lors de la dernière séance du Conseil Général, la motion du PSN pour l’augmentation des places en crèche tout en conservant un accueil de qualité a été acceptée. Six nouvelles places ont été créées. Ensemble, nous continuerons à suivre l’évolution des besoins des parents pour concilier vie privée et vie professionnelle.
 
-Le PSGC se bat pour une transition écologique rapide et solidaire. L’écologie n’est ni un
-luxe ni une mode et la réduction de l’impact humain sur l’environnement ne se fera que
-si les mesures sont accessibles et supportables pour toutes et tous. Pour le PSGC, il est
-urgent de réduire notre empreinte carbone et de veiller au monde que nous laisserons
-aux prochaines générations.
+Tu souhaites soutenir tes événements neuvevillois favoris ?
+Rejoins le Parti Socialiste Neuvevillois !
 
-## Socialisme
+Lors de cette la dernière séance du Conseil Général, le PSN a déposé des postulats pour faciliter la gestion administrative des subventions lors des événements neuvevillois. Ainsi, une marche à suivre claire va se mettre en place et permettre aux oganisateurs·trices de planifier plus facilement leurs événements. Ensemble, nous continuerons à nous engager pour la qualité de notre offre culturelle et sportive, pour tous et toutes.
 
-  - Lutter contre les inégalités sociales
-  - Rendre les impôts plus équitables et transparents
-  - Améliorer les salaires les conditions de travail 
+Tu veux soutenir les artisans·nes et les commerçant·es neuvevillois ?
+Rejoins le Parti Socialiste Neuvevillois !
 
-## Région
-  
-  - Tenir compte des spécificités du Jura bernois et de ses liens étroits avec ses voisins romands
-  - Se battre pour les francophones, le bilinguisme et davantage de compétences décisionnelles
-  - Investir dans les infrastructures publiques : sport, culture, éducation, transports
+Lors de la dernière législature, le PSN a déposé un postulat pour relancer le tourisme. La gratuité de la location des terrasses a été offerte aux restaurateurs·trices, et ceci, suite à l’interpellation du PS s’enquérant des mesures de soutien aux secteurs affectés par la pandémie du Covid-19. Ensemble, nous poursuivrons nos efforts pour dynamiser le commerce et le tourisme.
 
-## Ecologie
+Tu veux travailler à l’inclusion de chacun·e ?
+Rejoins le Parti Socialiste Neuvevillois !
 
-  - Faire de la réduction de notre empreinte carbone et environnementale une priorité
-  - Veiller à ce que la transition écologique ne se fasse pas sur le dos des plus pauvres
-  - Subventionner les énergies renouvelables tout en diminuant l'utilisation des ressources
+Lors du dernier Conseil Général, le postulat du PSN pour rendre St-Joux et la Plage plus accessible aux personnes à mobilité réduite, aux seniors et aux personnes en situation de handicap a été accepté. Des aménagements spécifiques seront installés. Ensemble, nous veillerons à la participation de tous et toutes à la vie neuvevilloise.
 
-## Féminisme
-  
-  - Instaurer un congé parental et des crèches à tarifs plus abordables
-  - Lutter efficacement contre l'inégalité salariale et l'inégalité des chances
-  - Briser les tabous autour de la contraception et la santé sexuelle
+Tu veux être le lien entre les générations ?
+Rejoins le Parti Socialiste Neuvevillois !
 
-## Santé
+Lors de la législature, le postulat PSN pour une politique active cohérente pour les seniors à la Neuveville afin de rassembler et d’informer des offres et activités attractives à toutes. Cela a donné lieu à une enquête auprès des seniors, afin de déterminer les envies et besoins. Ensemble, nous défendrons des services publics de qualité pour tous et toutes.
 
-  - Considérer la santé comme un bien public: accessible, détachée des intérêts économiques
-  - Utiliser la prévention comme un pilier du système de santé et la penser à long terme
-  - Développer l'offre de soins de proximité
+Tu as des idées pour une politique sociale et solidaire ?
+Ensemble, pour tous, sans privilèges.
+
+
+
 
