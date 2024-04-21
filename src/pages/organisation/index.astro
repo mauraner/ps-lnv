@@ -1,0 +1,102 @@
+---
+import Layout from '@layouts/Default.astro';
+import RecentBlogPosts from '@components/generic/RecentBlogPosts.astro';
+import MobileSocials from '@components/home/MobileSocials.astro';
+import { Pill } from '@eliancodes/brutal-ui';
+import { Button } from '@eliancodes/brutal-ui';
+import { Card } from '@eliancodes/brutal-ui';
+
+---
+
+<Layout
+  title='Organisation'
+  pageTitle='Organisation'
+  description='Organisation'
+>
+  <main class='bg-red p-6'>
+    <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
+      <h2 class='hidden'>Info</h2>
+      <div class='col-span-8'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Le bureau
+            </p>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Maurane Riesen
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+              Co-présidente, députée (La Neuveville)
+            </p>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Théo <br> Brand
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+            Co-président, conseiller de ville (Saint-Imier)
+            </p>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Chiara Voisin
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+              Trésorière, conseillère de ville (Saint-Imier)
+            </p>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Gilles Marchand
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+              Communication (Tavannes)
+            </p>
+          </div>
+        </Card>
+      </div>
+    </section>
+    <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
+      <div class='col-span-2'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+            A nommer
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+            Secrétaire
+            </p>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-8'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Le Comité de Direction
+            </p>
+          </div>
+        </Card>
+      </div>
+
+    </section>
+  </main>
+</Layout>

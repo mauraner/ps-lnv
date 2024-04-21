@@ -1,0 +1,53 @@
+---
+import Layout from '@layouts/Default.astro';
+import RecentBlogPosts from '@components/generic/RecentBlogPosts.astro';
+import MobileSocials from '@components/home/MobileSocials.astro';
+import { Pill } from '@eliancodes/brutal-ui';
+import { Button } from '@eliancodes/brutal-ui';
+import { Card } from '@eliancodes/brutal-ui';
+
+---
+
+<Layout
+  title='Contact'
+  pageTitle='Contact'
+  description='Contact'
+>
+  <main class='bg-red p-6'>
+    <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
+      <h2 class='hidden'>Info</h2>
+      <div class='col-span-8'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Devenez membre 
+            </p>
+             <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+            Vous pouvez soutenir notre cause et notre action en devenant membre du PSGC. Pour cela écrivez à notre secrétaire à l'adresse 
+            <br><br>
+             <a
+                class='text-white'>courriel@secretaire.com  </a>
+  </p>
+          </div>
+        </Card>
+      </div>
+     <div class='col-span-8'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Soutien financier
+            </p>
+             <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+            Vous souhaitez nous soutenir autrement? C’est en partie grâce aux dons que le PSGC peut continuer à défendre ses idées – vos idées!
+            <br><br>
+             <a
+                class='text-white'>IBAN, PSGC / 2610 Saint-Imier </a>
+            <br><br>
+             D’ores et déjà un immense merci pour votre soutien!
+  </p>
+          </div>
+        </Card>
+      </div>
+    </section>
+  </main>
+</Layout>
