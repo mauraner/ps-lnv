@@ -12,7 +12,7 @@ layout: '../../layouts/BlogPost.astro'
 ---
 
 ## Qui sommes-nous?
-Le Parti Socialiste de la Neuveville est la section locale du Parti Socialiste active dans la commune de La Neuveville. Nous sommes une section du PS Grand Chasseral, qui est la fédération régionale du PS du canton de Berne.
+Le Parti Socialiste de la Neuveville est la section locale du Parti Socialiste active dans la commune de La Neuveville. Nous sommes une section du PS Grand Chasseral, qui est une fédération régionale du PS du canton de Berne.
 Nous sommes une équipe motivée engagée pour la population de la Neuveville. Notre parti a actuellement deux représentantes au Conseil Municipal et 7 élu-e-s au Conseil général.
 
 ## Notre engagement 
@@ -23,4 +23,4 @@ En tant que citoyennes et citoyens et en tant qu'élu-e-s, nous agissons concrè
 
 
 
-
+![Slogan du PS La Neuveville.](/img/slogan_PSLNV.jpeg)
