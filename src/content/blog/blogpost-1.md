@@ -6,7 +6,7 @@ tags:
   - Social
   - Écologie
   - Local
-imgUrl: '../../assets/slogan_PSLNV.jpeg'
+imgUrl: '../../assets/blog/slogan_PSLNV.jpeg'
 description: Bienvenue sur notre nouveau site internet.
 layout: '../../layouts/BlogPost.astro'
 ---
