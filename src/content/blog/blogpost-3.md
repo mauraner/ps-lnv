@@ -22,7 +22,7 @@ Le PS a obtenu quatre sièges au Conseil Général. Helvetia Wingo, Caroline Bra
 
 # Catherine Frioud Auchlin à la mairie 
  
- Le résultat à la mairie amène le PS a soutenir la maire actuelle Catherine Frioud Achlin au deuxième tour. Pour La Neuveville, l'expérience et les compétences qu'elle amène sont une richesse. 
+ Le résultat à la mairie amène le PS a soutenir la maire actuelle Catherine Frioud Auchlin au deuxième tour. Pour La Neuveville, l'expérience et les compétences qu'elle amène sont une richesse. 
 
 **Ensemble, sans privilège !**
 
